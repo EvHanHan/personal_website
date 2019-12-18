@@ -13,10 +13,12 @@ html{
 }
 
 
+
+
 /* --- Main Text -------*/
 
 body{
-   font-family: 'Rajdhani', serif;
+   font-family: 'Rajdhani', serif;   
     margin: 0px; 
     height:100%;
     color: #433e4e;
